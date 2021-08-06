@@ -4,9 +4,9 @@
 
 Out of the box CSS styling for HTML elements. No class names, no framework to learn.
 
-`<link rel="stylesheet" href="add-link">`
+`<link rel="stylesheet" href="https://lco.dev/tutcss.css">`
 
-Live demo: https://lco.dev/TutCSS
+Live demo: https://lco.dev/tutcss/
 
 
 
